@@ -25,7 +25,7 @@
           "id": "pollutant",
           "type": "text",
           "info": {
-              "label": "空氣污染指標物"
+              "label": ""
           }
       },
       {
