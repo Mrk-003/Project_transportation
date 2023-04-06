@@ -1,12 +1,3 @@
-function getFieldName(fields, id) {
-  for (field of fields) {
-      if (field['id'] == id) {
-          return field['info']['label']
-      }
-  }
-}
-
-let json =`
 {
   "fields": [
       {
