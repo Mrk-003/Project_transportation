@@ -72,23 +72,43 @@
   },
   "records": [
       {
-          "sitename": "湖口",
-          "county": "新竹",
+          "sitename": "南屯",
+          "county": "台中市",
           "aqi": "測速照相速限60公里",
           "pollutant": "",
-          "status": "湖口鄉台一線南下車道61K南下",
-          "longitude": "121.760056",
-          "latitude": "25.129167",
+          "status": "南屯區 向上路五段(往市區距離精科路360公尺)快車道",
+          "longitude": "120.59721987210791",
+          "latitude": "24.155785889460407",
+          "siteid": "1"
+      },
+    {
+          "sitename": "南屯",
+          "county": "台中市",
+          "aqi": "測速照相速限40公里",
+          "pollutant": "",
+          "status": "南屯區 向上路五段(往市區距離精科路360公尺)快車道",
+          "longitude": "120.59721987210791",
+          "latitude": "24.155785889460500",
+          "siteid": "1"
+      },
+       {
+          "sitename": "南屯",
+          "county": "台中市",
+          "aqi": "測速照相速限50公里",
+          "pollutant": "",
+          "status": "南屯區 向上路三段418號前",
+          "longitude": "120.62712240082635",
+          "latitude": "24.1451199480044",
           "siteid": "1"
       },
       {
-        "sitename": "竹北",
-        "county": "新竹",
-        "aqi": "測速照相速限70公里",
+        "sitename": "南屯",
+        "county": "台中市",
+        "aqi": "測速照相速限50公里",
         "pollutant": "",
-        "status": "西濱公路台15線69K鳳鼻隧道南端出口",
-        "longitude": "121.764056",
-        "latitude": "25.127167",
+        "status": "南屯區 公益路二段與文心路一段路口",
+        "longitude": "120.64666943417407",
+        "latitude": "24.151170505289436",
         "siteid": "1"
     }
   ]
