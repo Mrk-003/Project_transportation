@@ -140,17 +140,6 @@
           "longitude": "120.63013438506623",
           "latitude": "24.14680879642846",
           "siteid": "1"
-     },
-     {
-          "sitename": "南屯",
-          "county": "國道3甲",
-          "speed": "80"
-          "pollutant": "",
-          "status": "國道三甲西向3.4公里",
-          "Longitude": "121.57856",
-          "Latitude": "25.005106",
-          "siteid": "1"
-         
-        }
+     } 
   ]
 }
