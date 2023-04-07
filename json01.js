@@ -143,7 +143,7 @@
      },
      {
             "county": "國道3甲",
-            "sitename": "",
+            "sitename": "台灣",
             "status": "國道三甲西向3.4公里",
             "DeptNm": "國道公路警察局",
             "BranchNm": "國道公路警九隊",
@@ -154,7 +154,7 @@
         },
         {
             "county": "台2乙線",
-            "sitename": "",
+            "sitename": "台灣",
             "status": "台2己線北向1.1公里",
             "DeptNm": "國道公路警察局",
             "BranchNm": "國道公路警九隊",
