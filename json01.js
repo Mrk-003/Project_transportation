@@ -141,5 +141,27 @@
           "latitude": "24.14680879642846",
           "siteid": "1"
      }
+     {
+            "county": "國道3甲",
+            "sitename": "",
+            "status": "國道三甲西向3.4公里",
+            "DeptNm": "國道公路警察局",
+            "BranchNm": "國道公路警九隊",
+            "Longitude": "121.57856",
+            "Latitude": "25.005106",
+            "direct": "往西",
+            "speed": "80"
+        },
+        {
+            "county": "台2乙線",
+            "sitename": "",
+            "status": "台2己線北向1.1公里",
+            "DeptNm": "國道公路警察局",
+            "BranchNm": "國道公路警九隊",
+            "Longitude": "121.73204",
+            "Latitude": "25.15298",
+            "direct": "往北",
+            "speed": "50"
+        }
   ]
 }
