@@ -147,8 +147,8 @@
           "speed": "80"
           "pollutant": "",
           "status": "國道三甲西向3.4公里",
-          "Longitude": "121.57856",
-          "Latitude": "25.005106",
+          "longitude": "121.57856",
+          "latitude": "25.005106",
           "siteid": "1"
      }
   ]
