@@ -110,6 +110,36 @@
         "longitude": "120.64666943417407",
         "latitude": "24.151170505289436",
         "siteid": "1"
-    }
+    },
+    {
+          "sitename": "南屯",
+          "county": "台中市",
+          "speed": "50",
+          "pollutant": "",
+          "status": "南屯區 永春南路148號前",
+          "longitude": "120.60922584232927",
+          "latitude": "24.138565144285213",
+          "siteid": "1"
+      },
+        {
+          "sitename": "南屯",
+          "county": "台中市",
+          "speed": "80",
+          "pollutant": "",
+          "status": "南屯區 中彰快速道路4.8K",
+          "longitude": "120.62262085487757",
+          "latitude": "24.13763260920898",
+          "siteid": "1"
+      },
+     {
+          "sitename": "南屯",
+          "county": "台中市",
+          "speed": "40",
+          "pollutant": "",
+          "status": "南屯區 環中路三段與五權西路二段口",
+          "longitude": "120.63013438506623",
+          "latitude": "24.14680879642846",
+          "siteid": "1"
+      }
   ]
 }
