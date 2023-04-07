@@ -142,15 +142,15 @@
           "siteid": "1"
      },
      {
-          "county": "國道3甲",
           "sitename": "南屯",
+          "county": "國道3甲",
+          "speed": "80"
+          "pollutant": "",
           "status": "國道三甲西向3.4公里",
-          "DeptNm": "國道公路警察局",
-          "BranchNm": "國道公路警九隊",
           "Longitude": "121.57856",
           "Latitude": "25.005106",
-          "direct": "往西",
-          "speed": "80"
+          "siteid": "1"
+         
         }
   ]
 }
